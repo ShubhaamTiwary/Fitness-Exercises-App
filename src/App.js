@@ -10,7 +10,6 @@ import ExerciseDetail from './pages/ExerciseDetails';
 import Home from './pages/Home';
 
 
-
 const App = () =>{
     return (
         <Box width="400px" sx={{ width: {xl : '1488px'}}} m="auto">
