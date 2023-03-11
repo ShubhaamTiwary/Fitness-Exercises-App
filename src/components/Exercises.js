@@ -34,7 +34,6 @@ const Exercises = ({bodyPart, exercises, setExercises}) => {
     window.scrollTo({top: 1800 , behavior: 'smooth'})
   }
 
-
   return (
     <Box id="exercises"
       sx={{mt: {lg: '110px'}}}
