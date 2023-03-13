@@ -1,7 +1,7 @@
 
 # Project Title
 
-This is a Fitness Website where you can search any perticular exercise or any raeget muscle and get every deatils about it.
+This is a Fitness Website where you can search for any specific exercise or target muscle and get all the details about it.
 
 This Website is made in ReactJs and MaterialUI.
 
