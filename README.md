@@ -13,10 +13,10 @@ This Website is made in ReactJs and MaterialUI.
 **Client:** React, MaterialUI, TailwindCSS
 
 
-
 ## Demo
 
-Insert gif or link to demo
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/89575981/224621120-85b4985a-a5a4-427f-8893-b121fa1b81ac.gif)
+
 
 ![](file:///C:/Users/shubh/Downloads/ezgif.com-video-to-gif.gif)
 ## Features
